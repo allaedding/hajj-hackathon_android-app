@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#fff</color>
+
+    <color name="tab_select_txt">#5983f0</color>
+    <color name="tab_unselect_txt">#c3c9da</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#dd5048</color>
+
+    <color name="selected_txt">#dd5048</color>
+    <color name="unselected_txt">#b9bfc8</color>
+
+
+
+    <!--Category Type Tab Color-->
+    <color name="Indicator_tabTextColor">#DCE1EE</color>
+    <color name="Indicator_tabSelectedTextColor">#e92324</color>
+    <color name="tabindiacator_background">#fff</color>
+    <color name="tabIndicator_color">#38bffe</color>
+</resources>

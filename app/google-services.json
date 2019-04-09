@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "900176083280",
+    "firebase_url": "https://storied-toolbox-211611.firebaseio.com",
+    "project_id": "storied-toolbox-211611",
+    "storage_bucket": "storied-toolbox-211611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900176083280:android:898d50629f165c9e",
+        "android_client_info": {
+          "package_name": "com.example.mr_virwus.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900176083280-muuq67hfd9dd7ibc6igc3417t0h7maiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mr_virwus.myapplication",
+            "certificate_hash": "791117337738ad5b2a03f77432f74b351a4c6bbe"
+          }
+        },
+        {
+          "client_id": "900176083280-3b6og5gt90ivk8kbvmuk7ajio57073s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBOHsWVYOmMYX6hqFkNL2WppFv8PiFexQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900176083280-3b6og5gt90ivk8kbvmuk7ajio57073s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900176083280:android:d7e06895e5ca2740",
+        "android_client_info": {
+          "package_name": "com.wolfsoft.propertyui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900176083280-2h8144kuj80bbdvkt0sng0fffhdbc1c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolfsoft.propertyui",
+            "certificate_hash": "791117337738ad5b2a03f77432f74b351a4c6bbe"
+          }
+        },
+        {
+          "client_id": "900176083280-3b6og5gt90ivk8kbvmuk7ajio57073s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBOHsWVYOmMYX6hqFkNL2WppFv8PiFexQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900176083280-3b6og5gt90ivk8kbvmuk7ajio57073s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AAmeen</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mapscercles">Map</string>
+    <string name="title_activity_trackhaj">Map</string>
+    <string name="agree">Welcome to our Application </string>
+    <string name="title">Ammen Albayt</string>
+</resources>
