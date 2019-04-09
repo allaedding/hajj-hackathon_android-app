@@ -3,9 +3,13 @@
 this repo contain the project source code for team k-007 in the hajj hackathon 2018
 and its just a prototype.
 
-## the webservice source code link:
+## android app source code link:
 
-https://github.com/allaedding/
+https://github.com/allaedding/hajj-hackathon_android-app
+
+## webservice source code link:
+
+https://github.com/allaedding/hajj-hackathon_webservice
 
 ## overview:
 
